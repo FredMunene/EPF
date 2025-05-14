@@ -63,6 +63,8 @@ func build( env Environment, pool txpool.Pool, state state.StateDB) (types.Block
 
 ```
 
+## State Transition Function
+eth/catalyst/api - newPayload
 
 
 ### Consensus Layer
